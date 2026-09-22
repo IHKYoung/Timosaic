@@ -1,0 +1,225 @@
+{
+  "generatedAt": "2026-09-22T14:19:52.695Z",
+  "locales": [
+    "zh-Hans",
+    "en"
+  ],
+  "images": [
+    {
+      "file": "screenshots/iphone/zh-Hans/01-today.png",
+      "width": 1320,
+      "height": 2868,
+      "hasAlpha": false,
+      "sha256": "23ad23c2d0c97d3ced208790fdf2c89c97b175c0208003791d9e76c1d5b26a8e",
+      "source": "raw/iphone/01-zh-Hans-today.png",
+      "headline": "把时间， 涂成生活。"
+    },
+    {
+      "file": "screenshots/iphone/zh-Hans/02-paint.png",
+      "width": 1320,
+      "height": 2868,
+      "hasAlpha": false,
+      "sha256": "51aa49c25e2cbb26b1c88f40c5d96c2a606ebf614d315b2e08864171cfb630bf",
+      "source": "raw/iphone/02-zh-Hans-paint.png",
+      "headline": "一段时光， 一个小故事。"
+    },
+    {
+      "file": "screenshots/iphone/zh-Hans/03-calendar.png",
+      "width": 1320,
+      "height": 2868,
+      "hasAlpha": false,
+      "sha256": "cd9eda9d10eaa4410ce37c4aebd8d5d8a6188021526a1133d7ec9a76f78a9dd8",
+      "source": "raw/iphone/03-zh-Hans-calendar.png",
+      "headline": "平凡的日子， 也有自己的光。"
+    },
+    {
+      "file": "screenshots/iphone/zh-Hans/04-memo.png",
+      "width": 1320,
+      "height": 2868,
+      "hasAlpha": false,
+      "sha256": "d62036fe83f8073cee01a337458a07551bc8f82c7210c56c3dbb45e96681a255",
+      "source": "raw/iphone/04-zh-Hans-memo.png",
+      "headline": "今天， 也听听自己。"
+    },
+    {
+      "file": "screenshots/iphone/zh-Hans/05-composition.png",
+      "width": 1320,
+      "height": 2868,
+      "hasAlpha": false,
+      "sha256": "a677bfb4ec303ad7835321e30a6383ac649b344bfb4f839ba368507a7995f046",
+      "source": "raw/iphone/05-zh-Hans-composition.png",
+      "headline": "看见时间， 更懂自己。"
+    },
+    {
+      "file": "screenshots/iphone/zh-Hans/06-dark.png",
+      "width": 1320,
+      "height": 2868,
+      "hasAlpha": false,
+      "sha256": "3b4827e908cd282de0ac4f057269d8b2add955344111df6752369d0162b006f9",
+      "source": "raw/iphone/06-zh-Hans-dark.png",
+      "headline": "夜深了， 也温柔记录。"
+    },
+    {
+      "file": "screenshots/iphone/en/01-today.png",
+      "width": 1320,
+      "height": 2868,
+      "hasAlpha": false,
+      "sha256": "03c738e4364ed71f08cc57a70e5f7e325a87a1a2de6bd4be44e870e2e0cdd2e4",
+      "source": "raw/iphone/01-en-today.png",
+      "headline": "A little color. A day to remember."
+    },
+    {
+      "file": "screenshots/iphone/en/02-paint.png",
+      "width": 1320,
+      "height": 2868,
+      "hasAlpha": false,
+      "sha256": "32bbfb1bc627c0a9fba109e2ff9d836e84741482410ca5aa6fd9f948182c3ce4",
+      "source": "raw/iphone/02-en-paint.png",
+      "headline": "A little time. A story of your own."
+    },
+    {
+      "file": "screenshots/iphone/en/03-calendar.png",
+      "width": 1320,
+      "height": 2868,
+      "hasAlpha": false,
+      "sha256": "af95604d782e24fb6a1b9f5c4b7b5d435817f48cd09a4024a3e842ca1750f73a",
+      "source": "raw/iphone/03-en-calendar.png",
+      "headline": "Ordinary days. A beautiful whole."
+    },
+    {
+      "file": "screenshots/iphone/en/04-memo.png",
+      "width": 1320,
+      "height": 2868,
+      "hasAlpha": false,
+      "sha256": "a84301388de89df9451da1625b2456e9a70a3b9ac4cca6e841f59fde71e11fad",
+      "source": "raw/iphone/04-en-memo.png",
+      "headline": "How was your day, really?"
+    },
+    {
+      "file": "screenshots/iphone/en/05-composition.png",
+      "width": 1320,
+      "height": 2868,
+      "hasAlpha": false,
+      "sha256": "19b55f887fbd461c465c4dbfae67f17e61f840cfe073fb148c1ccce55e999cc2",
+      "source": "raw/iphone/05-en-composition.png",
+      "headline": "See your time. Know yourself."
+    },
+    {
+      "file": "screenshots/iphone/en/06-dark.png",
+      "width": 1320,
+      "height": 2868,
+      "hasAlpha": false,
+      "sha256": "b6ed9fdf8cc784e442cbe052c1d25f7cf0feda719986f8d6bb0dbbebc4fc69d8",
+      "source": "raw/iphone/06-en-dark.png",
+      "headline": "A softer glow. A kinder goodnight."
+    },
+    {
+      "file": "screenshots/ipad/zh-Hans/01-today.png",
+      "width": 2064,
+      "height": 2752,
+      "hasAlpha": false,
+      "sha256": "522a54b062c8c8beeafc5ed36f11629d4fa362b0ef1c0734040f34c862a36f9a",
+      "source": "raw/ipad/01-zh-Hans-today.png",
+      "headline": "把时间， 涂成生活。"
+    },
+    {
+      "file": "screenshots/ipad/zh-Hans/02-paint.png",
+      "width": 2064,
+      "height": 2752,
+      "hasAlpha": false,
+      "sha256": "02a307ce26ff977f7222c5db93a9e7b9771f210dedbdf80621771dc5e5a2ed2a",
+      "source": "raw/ipad/02-zh-Hans-paint.png",
+      "headline": "一段时光， 一个小故事。"
+    },
+    {
+      "file": "screenshots/ipad/zh-Hans/03-calendar.png",
+      "width": 2064,
+      "height": 2752,
+      "hasAlpha": false,
+      "sha256": "a39c69153d111962300b23b71b8b3297ba2a1b0af5d54f27f15cf1029b6fabb2",
+      "source": "raw/ipad/03-zh-Hans-calendar.png",
+      "headline": "平凡的日子， 也有自己的光。"
+    },
+    {
+      "file": "screenshots/ipad/zh-Hans/04-memo.png",
+      "width": 2064,
+      "height": 2752,
+      "hasAlpha": false,
+      "sha256": "6e1cba0ccf0cdf09a46e67e1956b78663074dd7d456f8631a3e6ed0cab8eb777",
+      "source": "raw/ipad/04-zh-Hans-memo.png",
+      "headline": "今天， 也听听自己。"
+    },
+    {
+      "file": "screenshots/ipad/zh-Hans/05-composition.png",
+      "width": 2064,
+      "height": 2752,
+      "hasAlpha": false,
+      "sha256": "68bc11c1cf63098803fb00e63965f4207093d9aaafa5934015d475ce0522d258",
+      "source": "raw/ipad/05-zh-Hans-composition.png",
+      "headline": "看见时间， 更懂自己。"
+    },
+    {
+      "file": "screenshots/ipad/zh-Hans/06-dark.png",
+      "width": 2064,
+      "height": 2752,
+      "hasAlpha": false,
+      "sha256": "0d4cd8fd9c62a476c15f1b1ed51d9bce817c5d469c297f36b0ee32871d6b7221",
+      "source": "raw/ipad/06-zh-Hans-dark.png",
+      "headline": "夜深了， 也温柔记录。"
+    },
+    {
+      "file": "screenshots/ipad/en/01-today.png",
+      "width": 2064,
+      "height": 2752,
+      "hasAlpha": false,
+      "sha256": "148b861753928a72094dfae23f74e0fb337ca64c2d44c50dd135a0daf9e27801",
+      "source": "raw/ipad/01-en-today.png",
+      "headline": "A little color. A day to remember."
+    },
+    {
+      "file": "screenshots/ipad/en/02-paint.png",
+      "width": 2064,
+      "height": 2752,
+      "hasAlpha": false,
+      "sha256": "952ec4c39ebe3d4ec912ec877c24cb6795cc52e8986ce2453656f0ac631502a5",
+      "source": "raw/ipad/02-en-paint.png",
+      "headline": "A little time. A story of your own."
+    },
+    {
+      "file": "screenshots/ipad/en/03-calendar.png",
+      "width": 2064,
+      "height": 2752,
+      "hasAlpha": false,
+      "sha256": "b504967e08637381deea9de0043c5857acf643e86e971686075090f06285946b",
+      "source": "raw/ipad/03-en-calendar.png",
+      "headline": "Ordinary days. A beautiful whole."
+    },
+    {
+      "file": "screenshots/ipad/en/04-memo.png",
+      "width": 2064,
+      "height": 2752,
+      "hasAlpha": false,
+      "sha256": "cf801a82ae1a4d5536fc3598b14ddfc581759b1d6b6c21ed43ecab93d86bb2fc",
+      "source": "raw/ipad/04-en-memo.png",
+      "headline": "How was your day, really?"
+    },
+    {
+      "file": "screenshots/ipad/en/05-composition.png",
+      "width": 2064,
+      "height": 2752,
+      "hasAlpha": false,
+      "sha256": "00229c56a76196b55f591102072ebe8302386301c06002eb64d132b89c631f21",
+      "source": "raw/ipad/05-en-composition.png",
+      "headline": "See your time. Know yourself."
+    },
+    {
+      "file": "screenshots/ipad/en/06-dark.png",
+      "width": 2064,
+      "height": 2752,
+      "hasAlpha": false,
+      "sha256": "e2e3110af413b9fe7e29a068371b5c1a79fd558e717a7e7ea3472fc685a9be2a",
+      "source": "raw/ipad/06-en-dark.png",
+      "headline": "A softer glow. A kinder goodnight."
+    }
+  ]
+}

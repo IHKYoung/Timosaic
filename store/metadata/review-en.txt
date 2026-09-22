@@ -1,0 +1,7 @@
+No login or test credentials are needed. All records are stored locally.
+1. After onboarding, choose an activity in Today and drag across blocks. Each stroke saves automatically. Hold a block to edit its times.
+2. The central + opens Quick Capture: select time, then activity, color, note, tags or place. Save moment commits the draft.
+3. Today > Diary holds a daily note, a preset or custom mood, little joys and plans for tomorrow.
+4. Review provides a monthly calendar, activity filters, search and daily timelines. Discover provides week/month statistics. Period comparisons require sufficient recorded coverage.
+5. Me contains local profile, category, appearance, reminder and JSON/CSV export settings. Photo selection uses PhotosPicker. Notification permission is requested only when enabling reminders.
+Screenshots use the actual native interface with isolated, fictional in-memory data. Normal first launch is empty. No cloud sync, background timer or automatic activity monitoring is provided.

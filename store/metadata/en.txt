@@ -1,0 +1,73 @@
+title
+Timosaic: Time Journal
+
+subtitle
+Color your day. Find your flow
+
+promotionalText
+Life is more than a to-do list. Paint a little time, save a thought, and look back at the days that make you, you. Good work matters. Good rest does, too.
+
+keywords
+diary,mood,calendar,reflection,focus,habits,selfcare,notes,tracker,sleep,offline,wellbeing,activity
+
+description
+Make a little room for yourself.
+
+Timosaic is a time journal you fill with color. Each day has 96 little blocks, each holding 15 minutes. Give work, learning, creativity and rest a place in the picture — without turning every minute into a target.
+
+PAINT A MOMENT
+Choose an activity in Today, then tap or swipe across the grid. Each stroke saves automatically. Undo, redo or erase when you need to; hold a block to adjust its times. Adjacent entries of the same activity become one continuous stretch on your timeline.
+
+KEEP THE STORY, TOO
+Tap + to choose a time, activity and color. Add a note, tags or a place. For the day as a whole, Diary holds your thoughts, a feeling in your own words, a little joy and something to look forward to tomorrow.
+
+LOOK BACK WITH KINDNESS
+A colorful month of entries helps you revisit ordinary days. Open a date to see its timeline and notes, or filter by activity and search for a memory.
+
+FIND YOUR OWN RHYTHM
+Observe sleep, movement, work and waking activities separately, with a little room for life beyond work and sleep. Adjust personal sleep references and work reminders; missing entries are never treated as zero. Keywords come from your own tags. Explore daily distributions, activity totals and periods of focus. When enough time has been recorded, compare the same elapsed portion of two periods. Insights use only your own entries: no Screen Time access, no guessing your feelings, and no treating blank time as rest.
+
+MAKE IT FEEL LIKE YOU
+Personalize your activities, colors and icons, along with your profile photo, name and signature. Gentle botanical art, little words of encouragement, and light and dark appearances make space for a softer daily ritual.
+
+ON YOUR DEVICE
+No account required. Record offline and export your data as JSON, or time entries as CSV. This version does not include cloud sync; keep separate exports of important memories.
+
+You do not have to fill every block.
+Rest belongs in the picture, too.
+
+Timosaic. See your life, one block at a time.
+
+whatsNew
+Welcome to Timosaic 1.0. A little color for ordinary days.
+Paint 15-minute blocks, keep notes for moments and days, revisit your calendar, explore your rhythm and export your local data.
+
+reviewNotes
+No login or test credentials are needed. All records are stored locally.
+1. After onboarding, choose an activity in Today and drag across blocks. Each stroke saves automatically. Hold a block to edit its times.
+2. The central + opens Quick Capture: select time, then activity, color, note, tags or place. Save moment commits the draft.
+3. Today > Diary holds a daily note, a preset or custom mood, little joys and plans for tomorrow.
+4. Review provides a monthly calendar, activity filters, search and daily timelines. Discover provides week/month statistics. Period comparisons require sufficient recorded coverage.
+5. Me contains local profile, category, appearance, reminder and JSON/CSV export settings. Photo selection uses PhotosPicker. Notification permission is requested only when enabling reminders.
+Screenshots use the actual native interface with isolated, fictional in-memory data. Normal first launch is empty. No cloud sync, background timer or automatic activity monitoring is provided.
+
+supportURL
+https://timosaic.ahaknow.com/support/
+
+privacyPolicyURL
+https://timosaic.ahaknow.com/privacy/
+
+marketingURL
+https://timosaic.ahaknow.com/
+
+copyright
+[OWNER INPUT REQUIRED]
+
+appleID
+6812809147
+
+primaryCategorySuggestion
+Lifestyle
+
+secondaryCategorySuggestion
+Productivity

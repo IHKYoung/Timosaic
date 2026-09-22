@@ -1,0 +1,56 @@
+{
+  "zh-Hans": {
+    "title": {
+      "count": 18,
+      "limit": 30,
+      "unit": "characters"
+    },
+    "subtitle": {
+      "count": 17,
+      "limit": 30,
+      "unit": "characters"
+    },
+    "promotionalText": {
+      "count": 63,
+      "limit": 170,
+      "unit": "characters"
+    },
+    "description": {
+      "count": 727,
+      "limit": 4000,
+      "unit": "characters"
+    },
+    "keywords": {
+      "count": 99,
+      "limit": 100,
+      "unit": "characters"
+    }
+  },
+  "en": {
+    "title": {
+      "count": 22,
+      "limit": 30,
+      "unit": "characters"
+    },
+    "subtitle": {
+      "count": 30,
+      "limit": 30,
+      "unit": "characters"
+    },
+    "promotionalText": {
+      "count": 154,
+      "limit": 170,
+      "unit": "characters"
+    },
+    "description": {
+      "count": 2020,
+      "limit": 4000,
+      "unit": "characters"
+    },
+    "keywords": {
+      "count": 99,
+      "limit": 100,
+      "unit": "characters"
+    }
+  }
+}

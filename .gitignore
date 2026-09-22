@@ -1,0 +1,22 @@
+.DS_Store
+.build/
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcresult
+*.log
+.env
+.env.*
+!.env.example
+*.p12
+*.mobileprovision
+
+build-*/
+
+# Website deployment state stays local
+.vercel/
+node_modules/
+website-test-output/
+.vercel
+.env*
