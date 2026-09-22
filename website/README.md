@@ -28,3 +28,7 @@ App Store：https://apps.apple.com/app/id6812809147
 ## 回退
 
 可用 Vercel 控制台回滚到上一成功部署；文案和静态样式可通过新提交恢复。无需数据库迁移。
+
+## 首次发布 DNS
+
+2026-09-22：Vercel 已绑定域名，但外部 DNS 尚未配置。域名商添加 CNAME：主机名 `timosaic`，目标 `9459e51fcfdf6d8c.vercel-dns-017.com`。不要修改整个 ahaknow.com 的名称服务器。生效后执行 `vercel domains verify timosaic.ahaknow.com --scope ahaknow`。

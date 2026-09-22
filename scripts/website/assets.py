@@ -8,5 +8,7 @@ for slug in ['today','calendar','memo','composition']:
  for lang in ['zh-Hans','en']:
   n={'today':'01','calendar':'03','memo':'04','composition':'05'}[slug]
   im=Image.open(r/f'store/raw/iphone/{n}-{lang}-{slug}.png'); im.thumbnail((660,1434)); im.save(out/f'{slug}-{lang}.webp','WEBP',quality=86)
-shutil.copy(r/'Timosaic/Resources/Fonts/OFL-License.txt',out/'OFL-License.txt')
+license_text=(r/'Timosaic/Resources/Fonts/OFL-License.txt').read_text()
+license_text=license_text[license_text.index('SIL OPEN FONT LICENSE Version'):]
+(out/'OFL-License.txt').write_text('Copyright 2021-2024 LXGW (https://github.com/lxgw/LxgwWenKai-Screen)\nCopyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)\n\n'+license_text.strip()+'\n')
 shutil.copy(r/'Timosaic/Resources/Fonts/LXGW-Attribution.txt',out/'LXGW-Attribution.txt')
