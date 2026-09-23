@@ -21,5 +21,19 @@ for locale in ['zh-Hans','en']:
  assert d['appleID']=='6812809147';checks+=2
 assert (site/'assets/wenkai.woff2').stat().st_size < 200000
 assert not (site/'assets/wenkai.ttf').exists()
-assert len(list(site.rglob('*.html')))==5
-print(f'PASS: {checks} local links and metadata checks; 5 pages; font <200KB')
+assert len(list(site.rglob('*.html')))==7
+print(f'PASS: {checks} local links and metadata checks; 7 pages; font <200KB')
+
+# Every localized document must stay in its own language and link to its counterpart.
+for slug in ['support', 'privacy']:
+ for prefix, language, other in [('', 'zh-CN', 'en/'), ('en/', 'en', '')]:
+  route=f'/{prefix}{slug}/'
+  text=(site / prefix / slug / 'index.html').read_text()
+  assert f'<html lang="{language}">' in text
+  assert f'rel="canonical" href="https://timosaic.ahaknow.com{route}"' in text
+  assert f'class="language" href="/{other}{slug}/"' in text
+  for page in ['support', 'privacy']:
+   assert f'href="/{prefix}{page}/"' in text
+  assert '<h2>English' not in text and ' / Home' not in text
+  assert f'https://timosaic.ahaknow.com{route}' in (site/'sitemap.xml').read_text()
+print('PASS: localized documents, reciprocal language links, canonical URLs and sitemap')

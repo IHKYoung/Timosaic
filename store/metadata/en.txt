@@ -52,13 +52,13 @@ No login or test credentials are needed. All records are stored locally.
 Screenshots use the actual native interface with isolated, fictional in-memory data. Normal first launch is empty. No cloud sync, background timer or automatic activity monitoring is provided.
 
 supportURL
-https://timosaic.ahaknow.com/support/
+https://timosaic.ahaknow.com/en/support/
 
 privacyPolicyURL
-https://timosaic.ahaknow.com/privacy/
+https://timosaic.ahaknow.com/en/privacy/
 
 marketingURL
-https://timosaic.ahaknow.com/
+https://timosaic.ahaknow.com/en/
 
 copyright
 [OWNER INPUT REQUIRED]

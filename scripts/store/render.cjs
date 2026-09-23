@@ -47,7 +47,7 @@ function metadata(){
  const limits={title:30,subtitle:30,promotionalText:170,description:4000,keywords:100};
  for(const [lang,c] of Object.entries(copy)){
   const obj=Object.fromEntries(['title','subtitle','promotionalText','keywords','description','whatsNew','reviewNotes'].map(k=>[k,c[k]]));
-  Object.assign(obj,{supportURL:'https://timosaic.ahaknow.com/support/',privacyPolicyURL:'https://timosaic.ahaknow.com/privacy/',marketingURL:'https://timosaic.ahaknow.com/',copyright:'',appleID:'6812809147',primaryCategorySuggestion:'Lifestyle',secondaryCategorySuggestion:'Productivity'});
+  Object.assign(obj,{supportURL:`https://timosaic.ahaknow.com/${lang==='en'?'en/':''}support/`,privacyPolicyURL:`https://timosaic.ahaknow.com/${lang==='en'?'en/':''}privacy/`,marketingURL:`https://timosaic.ahaknow.com/${lang==='en'?'en/':''}`,copyright:'',appleID:'6812809147',primaryCategorySuggestion:'Lifestyle',secondaryCategorySuggestion:'Productivity'});
   counts[lang]={};for(const [key,limit] of Object.entries(limits)){const n=[...obj[key]].length;counts[lang][key]={count:n,limit,unit:'characters'};if(n>limit)throw Error(`${lang} ${key}: ${n} > ${limit}`)}
   fs.writeFileSync(path.join(dir,lang+'.json'),JSON.stringify(obj,null,2)+'\n');
   fs.writeFileSync(path.join(dir,lang+'.txt'),Object.entries(obj).map(([k,v])=>`${k}\n${v||'[OWNER INPUT REQUIRED]'}\n`).join('\n'));

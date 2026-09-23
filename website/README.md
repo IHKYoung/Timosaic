@@ -8,8 +8,8 @@ App Store：https://apps.apple.com/app/id6812809147
 静态 HTML/CSS/JS，无框架或安装步骤。仓库根 vercel.json 的 outputDirectory 固定为 website；.vercelignore 仅上传网站和配置，不包含原生 App、测试数据、构建归档或商店素材。Vercel 项目 ahaknow/timosaic 连接 IHKYoung/Timosaic，推送生产分支触发部署。
 
 - `/` 中文首页，`/en/` 英文首页。
-- `/support/` 中英使用帮助，以 GitHub Issues 为现有支持渠道。
-- `/privacy/` 中英隐私说明，区分 App 本地记录与网站托管请求日志。
+- `/support/` 中文使用帮助，`/en/support/` 英文使用帮助，以 GitHub Issues 为现有支持渠道。
+- `/privacy/` 中文隐私说明，`/en/privacy/` 英文隐私说明，区分 App 本地记录与网站托管请求日志。
 - `/404.html` 错误页；robots.txt 与 sitemap.xml 已配置。
 - App Store ID 固定 6812809147。当前按钮仅称“查看”，不宣称已经上架。
 
